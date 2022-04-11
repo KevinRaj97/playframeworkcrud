@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 .bsp
 .idea
 target
 db
+=======
+>>>>>>> e935347fb93a25170cf72615986480a30b80d612
 *.class
 *.log
